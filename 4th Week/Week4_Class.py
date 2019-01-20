@@ -44,6 +44,6 @@ a = int(input("Please enter the first number"))
 b = int(input("Please enter second number"))
 
 if a>b :
- print("a is greater than b")
+    print("a is greater than b")
 else :
- print("b is greater than a")
+    print("b is greater than a")
